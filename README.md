@@ -13,3 +13,15 @@
 <p>O código não fecha corretamente a conexão com o banco de dados após o uso. É essencial fechar as conexões, instruções e resultados quando não forem mais necessários, para evitar vazamentos de recursos.</p>
 <h2>Utilização de Ferramentas como FindBugs</h2>
 <p>Sim, é uma boa prática usar ferramentas de análise de código estático como FindBugs, para assim, identificar potenciais problemas e vulnerabilidades no código. </p>
+<h2>Grafo de Fluxo</h2>
+<img src="/teste_caixa_branc/img/Fluxo_Grafo.png">
+<h2>Calculo da complexidade ciclomática</h2>
+<p>V(G) = E - N + 2</p>
+<p>V(G) =  19 - 17 + 2</p>
+<p>V(G) = 4</p>
+<h2>Base de caminhos</h2>
+<p>1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 13, 14, 16, 17</p>
+<p>1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 13, 15, 17</p>
+<p>1, 2, 3, 4, 6, 7, 8, 9, 10, 12, 17</p>
+<p>1, 2, 3, 5, 17</p>
+
