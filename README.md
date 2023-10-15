@@ -22,4 +22,6 @@
 <p>1, 2, 3, 4, 6, 7, 8, 9, 10, 11, 13, 15, 17</p>
 <p>1, 2, 3, 4, 6, 7, 8, 9, 10, 12, 17</p>
 <p>1, 2, 3, 5, 17</p>
+<h2>Documentação</h2>
+<p>A documentação do código Java, nada mais é que a adição de comentários, explicando cada sentença do código, como classe, método e variáveis.</p>
 
