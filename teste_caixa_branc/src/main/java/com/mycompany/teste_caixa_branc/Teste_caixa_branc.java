@@ -11,6 +11,6 @@ package com.mycompany.teste_caixa_branc;
 public class Teste_caixa_branc {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+       
     }
 }
