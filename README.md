@@ -1,6 +1,4 @@
 <h1>teste_caixa_branca</h1>
-<h2>Documentação:</h2> 
-<p> A documentação, não foi citada e/ou descrita no código, não há comentários e nenhuma instrução.</p>
 <h2>Nomenclatura de Variáveis e Constantes</h2>
 <p>A nomenclatura de variáveis e constantes não possuem uma nomenclatura clara ou mais descritiva. Por exemplo, a variável result, que poderia ser mais descritiva e indicar dee forma mais clara sua função.</p>
 <h2>Legibilidade e Organização</h2>
